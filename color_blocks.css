@@ -1,0 +1,147 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: #031835;
+  background: linear-gradient(to leftm #e53935, #e35d5b);
+}
+
+h1 {
+  color: #f2f2f2;
+  font-size: 75px;
+  line-height: 74px;
+  font-weight: 700;
+  margin: 0 5px 24px;
+  float: center;
+  padding: 30px;
+  margin: 0 5px; 24px;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+
+}
+
+#wrapper {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#Blue {
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  padding-top: 10px;
+}
+
+#Red {
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+}
+
+#Green {
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+}
+
+#Yellow {
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+}
+.Foot {
+  font-size: 30px;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.btn {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+nav {
+  text-align: center;
+}
+.btn-blue {
+background-color: #1E90FF;
+color: white;
+margin: 20px;
+border-radius: 30px;
+}
+
+
+.btn-red {
+  background-color: #b22222;
+  color: white;
+  margin: 20px;
+  border-radius: 30px;
+}
+
+
+.btn-green {
+  background-color: #32cd32;
+  color: white;
+  margin: 20px;
+  border-radius: 30px;
+}
+
+
+.btn-yellow {
+  background-color: #ffff00;
+  color: black;
+  margin: 20px;
+  border-radius: 30px;
+}
+
+
+.foo {
+  float: center;
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  border:5px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.blue {
+
+  background-color: #1E90FF;
+  background-image: url("http://chicagostylesports.com/wp-content/uploads/2015/12/Aaron-Rodgers-sucks.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+  border: 2px solid #1E90FF;
+}
+
+.red {
+  background-color: #b22222;
+  background-image: url("https://usatftw.files.wordpress.com/2013/07/usatsi_7298585.jpg");
+  background-size: cover;
+  background-blend-mode: screen;
+  border: 2px solid #b22222;
+}
+
+.green {
+  background-color: #32cd32;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/d4/2f/64/d42f6497a954a454728722d6daa6ef5c.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+  border: 2px solid #32cd32;
+
+}
+
+.yellow {
+  background-color: #ffff00;
+  background-image: url("http://www.totalprosports.com/wp-content/uploads/2011/09/aaron-rodgers-belt.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+  border: 2px solid #ffff00;
+}
